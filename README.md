@@ -1,6 +1,6 @@
 # a3khook
 
-Another lightweight dynamic-hooking engine for Linux kernel.
+Another lightweight dynamic-hooking engine for Linux kernel. **Temporarily supports single-thread system only.**
 
 ### 0x00. Becore we start
 
