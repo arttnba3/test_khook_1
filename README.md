@@ -103,4 +103,4 @@ With such action flow, we don't need to identify the instructions at the locatio
 
 ### 0x04. License
 
-GPL
+BSD
